@@ -1,0 +1,13 @@
+# Python package requirements for project
+
+scapy
+matplotlib
+seaborn
+psutil
+pandas
+numpy
+
+
+
+
+
