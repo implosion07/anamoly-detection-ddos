@@ -1,10 +1,10 @@
-# CloudGuard: A DDoS Shield for Securing the Cloud from DDoS Attacks
+# Anomaly Detection for DDoS Attack Defense in Virtual Environment 
 
-This project is a comprehensive solution designed to detect and prevent Distributed Denial of Service (DDoS) attacks in case of cloud servers. This work protects servers by monitoring the network traffic going to server, detecting attack patterns if necessary and implementing defensive measures to ensure system remains secure.
+This project is a comprehensive solution designed to detect and prevent Distributed Denial of Service (DDoS) attacks in case of cloud servers. This work protects servers by monitoring the network traffic going to server, detecting attack patterns if necessary and implementing defensive measures to ensure system remains secure. The data collected then can be used to detect anamoly using an autoencoder.
 
 ## Overview
 
-The current state of teh project addresses common DDoS attack vectors including:
+The current state of the project addresses common DDoS attack vectors including:
 - UDP Flood
 - TCP SYN Flood
 - HTTP Flood
