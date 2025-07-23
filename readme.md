@@ -15,7 +15,7 @@ The system leverages real-time monitoring and packet analysis through graphs alo
 ## Project Structure
 
 ```
-CloudGuard/
+/
 ├── attack/
 │   └── attacker.sh       # script for simulating various DDoS attacks
 ├── setup_firewall.sh     # script to configure and start protective firewall
