@@ -114,8 +114,10 @@ Configures protective measures including:
 ## Contributors
 
 - Varun Kukreti
-- Bhushan Datre
 - Vivek Arya
+
+## Acknowledgements
+- Department of Computer Science and Engineering, IIT Ropar
 
 ## Regulations
 
