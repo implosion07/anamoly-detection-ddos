@@ -47,7 +47,7 @@ The system leverages real-time monitoring and packet analysis through graphs alo
 
 ## Usage
 
-The project can eb run in two ways:
+The project can be run in two ways:
 
 ### Automatic Startup (Recommended)
 
